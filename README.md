@@ -12,5 +12,9 @@ My first project using C language. In this project i built a scientific calculat
     <p>This is a modular version of previous program. Here the mathematical operations are segregated into arthematical, trigonometrical, Logarithmic and Exopnential operations etc. Check out this link to look through the codes https://github.com/darshan45672/Project-on-Scientefic-Calculator/blob/master/sci-fi_calci2.c</p>
     <p><b>Special feature:</b> Here user can can exit at any point and come back to previous page anytime.</p>
     <p>Here are some snapshots of outputs of this model.</p>
+    <h4>Version 3.0</h4>
+    <p>THis is a well organised and beautified version of version 2.0. Each section opens in a new page and user can perform arthematical, trigonometrical, Logarithmic and Exopnential operations etc. Check out this link to look through the codes https://github.com/darshan45672/Project-on-Scientefic-Calculator/blob/master/sci-fi_calci3.c</p>
+    <p><b>Special feature:</b> Each category opens in a new page. Trignometric operations are categ Here user can can exit at any point and come back to previous page anytime.</p>
+    <p>Here are some snapshots of outputs of this model.</p></p>
   </ls>  
 </ul>
