@@ -20,3 +20,4 @@ My first project using C language. In this project i built a scientific calculat
 </ul>
 <h4><b>Upcoming version</b> : Version 4.0</h4>
 <p>expected features : section where you can perform algebraic operstions like finding roots for quadriatic and cubic equation</p>
+<h1>Stay tuned!!!!!!!!</h1>
